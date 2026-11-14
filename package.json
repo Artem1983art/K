@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "bedrock-protocol": "*",
-    "express": "^4.19.2"
+    "express": "*"
   }
 }
